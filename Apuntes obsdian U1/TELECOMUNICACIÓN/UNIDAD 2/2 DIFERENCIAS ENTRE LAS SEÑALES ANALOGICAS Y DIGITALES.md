@@ -14,7 +14,7 @@ Procesamiento:
 - El procesamiento de la analógica generalmente requiere amplificadores analógicos, y su almacenamiento suele hacerse en medios físicos como cintas magnéticas
 - El procesamiento de la digital se realiza mediante computadoras y circuitos digitales, y se almacenan fácilmente en medios como discos duros, memorias, usb.
 
-Nota: La analogica se utiliza mas porque a la hora de corregir el ruido de la señal es mas practica
+Nota: La analógica se utiliza mas porque a la hora de corregir el ruido de la señal es mas practica
 
 |                     | SISTEMA DIGITAL                                                                                                      | SISTEMA ANALOGICA                                                                                        |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
