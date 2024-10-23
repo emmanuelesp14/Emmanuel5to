@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "520dacc233ccbc47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2/2.DEFINICIÓNES DE LOS TIPOS DE PROCESADORES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,10 +172,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b72c1c50b9f081b",
+  "active": "520dacc233ccbc47",
   "lastOpenFiles": [
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2/1.X64 Y X86 DEFINICION Y DIFERENCIAS.md",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2/2.DEFINICIÓNES DE LOS TIPOS DE PROCESADORES.md",
+    "TELECOMUNICACIÓN/UNIDAD 3/2.APUNTE DE EL LIBRO.md",
+    "Pasted image 20241010075120.png",
+    "Pasted image 20241010075116.png",
+    "Pasted image 20241010074924.png",
+    "Pasted image 20241010073847.png",
+    "TELECOMUNICACIÓN/UNIDAD 3/Pasted image 20241010073525.png",
+    "TELECOMUNICACIÓN/UNIDAD 1/1 TEMARIO.md",
+    "TELECOMUNICACIÓN/UNIDAD 3/1 FIBRA OPTICA.md",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 1/1 TEMARIO.md",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 1/2 MODELO DE ARQUITECTURA.md",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 1/3 CONCEPTOS.md",
@@ -171,7 +191,6 @@
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 1/IMAGEN MODELO.jpg",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 1/PROCESADORES.jpg",
     "TELECOMUNICACIÓN/UNIDAD 1/4 ONDAS DE RADIO.md",
-    "TELECOMUNICACIÓN/UNIDAD 3/1 FIBRA OPTICA.md",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2",
     "TELECOMUNICACIÓN/UNIDAD 3",
     "TELECOMUNICACIÓN/UNIDAD 1/WhatsApp Image 2024-08-22 at 6.07.07 PM.jpeg",
@@ -182,13 +201,7 @@
     "TELECOMUNICACIÓN/UNIDAD 2/3 METODOS DE MODULACIÓN.md",
     "TELECOMUNICACIÓN/UNIDAD 2/FSK.png",
     "TELECOMUNICACIÓN/UNIDAD 2/ASK.png",
-    "TELECOMUNICACIÓN/UNIDAD 2/PSK.png",
-    "TELECOMUNICACIÓN/UNIDAD 2/PWM.png",
-    "TELECOMUNICACIÓN/UNIDAD 2/QAM.png",
-    "TELECOMUNICACIÓN/UNIDAD 2/PCM.png",
-    "TELECOMUNICACIÓN/UNIDAD 2/PAM.png",
     "TELECOMUNICACIÓN/UNIDAD 2",
-    "TELECOMUNICACIÓN/UNIDAD 1/1 TEMARIO.md",
     "Untitled.canvas",
     "3.md",
     "Excalidraw/Drawing 2024-08-27 08.38.25.excalidraw.md",
