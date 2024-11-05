@@ -1,0 +1,1 @@
+La diferencia principal entre **bit** y **byte** radica en la cantidad de información que representan y cómo se usan en la informática, **1 byte = 8 bits**, y mientras el bit es la unidad mínima de datos, el byte es la unidad estándar para almacenar y representar información en sistemas digitales.

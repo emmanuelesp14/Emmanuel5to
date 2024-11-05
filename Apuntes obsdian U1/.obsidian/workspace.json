@@ -16,7 +16,9 @@
                 "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2/1.X64 Y X86 DEFINICION Y DIFERENCIAS.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1.X64 Y X86 DEFINICION Y DIFERENCIAS"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2/2.DEFINICIÓNES DE LOS TIPOS DE PROCESADORES.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2.DEFINICIÓNES DE LOS TIPOS DE PROCESADORES"
             }
           },
           {
@@ -40,11 +44,109 @@
                 "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2/2.DEFINICIÓNES DE LOS TIPOS DE PROCESADORES.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2.DEFINICIÓNES DE LOS TIPOS DE PROCESADORES"
+            }
+          },
+          {
+            "id": "dcf278a9b8ed074a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          },
+          {
+            "id": "da5634bd2541d50f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TELECOMUNICACIÓN/UNIDAD 4/DIAGRAMA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DIAGRAMA"
+            }
+          },
+          {
+            "id": "d0e586b1c301254f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 3/CONCEPTOS Y DIFERENCIA ENTRE GPU Y CPU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONCEPTOS Y DIFERENCIA ENTRE GPU Y CPU"
+            }
+          },
+          {
+            "id": "ec736c984c07daf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EQUIVALENCIA SOBRE LAS UNIDADES DE ALMACENAMIENTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EQUIVALENCIA SOBRE LAS UNIDADES DE ALMACENAMIENTO"
+            }
+          },
+          {
+            "id": "864f904c56d6d2d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 3/EQUIVALENCIA SOBRE LAS UNIDADES DE ALMACENAMIENTO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EQUIVALENCIA SOBRE LAS UNIDADES DE ALMACENAMIENTO"
+            }
+          },
+          {
+            "id": "77bf133b9629241b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 3/CONCEPTOS Y DIFERENCIA ENTRE GPU Y CPU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONCEPTOS Y DIFERENCIA ENTRE GPU Y CPU"
+            }
+          },
+          {
+            "id": "16154f637cbbb8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TELECOMUNICACIÓN/UNIDAD 4/REDES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REDES"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -64,7 +166,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +183,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2/2.DEFINICIÓNES DE LOS TIPOS DE PROCESADORES.md",
+                "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 3/CONCEPTOS Y DIFERENCIA ENTRE GPU Y CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +226,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CONCEPTOS Y DIFERENCIA ENTRE GPU Y CPU"
             }
           },
           {
@@ -127,10 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2/2.DEFINICIÓNES DE LOS TIPOS DE PROCESADORES.md",
+                "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 3/CONCEPTOS Y DIFERENCIA ENTRE GPU Y CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CONCEPTOS Y DIFERENCIA ENTRE GPU Y CPU"
             }
           },
           {
@@ -141,7 +253,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +264,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2/2.DEFINICIÓNES DE LOS TIPOS DE PROCESADORES.md"
-              }
+                "file": "ARQUITECTURA DE COMPUTADORAS/UNIDAD 3/CONCEPTOS Y DIFERENCIA ENTRE GPU Y CPU.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CONCEPTOS Y DIFERENCIA ENTRE GPU Y CPU"
             }
           }
         ]
@@ -172,35 +288,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "520dacc233ccbc47",
+  "active": "16154f637cbbb8b0",
   "lastOpenFiles": [
+    "ARQUITECTURA DE COMPUTADORAS/UNIDAD 3/EQUIVALENCIA SOBRE LAS UNIDADES DE ALMACENAMIENTO.md",
+    "ARQUITECTURA DE COMPUTADORAS/UNIDAD 3/EQUIVALENCIA DE LAS UNIDADES DE FRECUENCIAS.md",
+    "ARQUITECTURA DE COMPUTADORAS/UNIDAD 3/DIFERENCIA ENTRE BIT Y BYTE.md",
+    "ARQUITECTURA DE COMPUTADORAS/UNIDAD 3/CONCEPTOS Y DIFERENCIA ENTRE GPU Y CPU.md",
+    "TELECOMUNICACIÓN/UNIDAD 4/REDES.md",
+    "Pasted image 20241029080433.png",
+    "Pasted image 20241029080330.png",
+    "Pasted image 20241029080229.png",
+    "Pasted image 20241029075929.png",
+    "Pasted image 20241029075831.png",
+    "Pasted image 20241029075415.png",
+    "Pasted image 20241029075159.png",
+    "TELECOMUNICACIÓN/UNIDAD 4/DIAGRAMA.md",
+    "Antenas.drawio.png",
+    "ARQUITECTURA DE COMPUTADORAS/UNIDAD 3",
+    "Pasted image 20241028083645.png",
+    "Pasted image 20241028083623.png",
+    "TELECOMUNICACIÓN/UNIDAD 4",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2/1.X64 Y X86 DEFINICION Y DIFERENCIAS.md",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2/2.DEFINICIÓNES DE LOS TIPOS DE PROCESADORES.md",
     "TELECOMUNICACIÓN/UNIDAD 3/2.APUNTE DE EL LIBRO.md",
-    "Pasted image 20241010075120.png",
-    "Pasted image 20241010075116.png",
-    "Pasted image 20241010074924.png",
-    "Pasted image 20241010073847.png",
-    "TELECOMUNICACIÓN/UNIDAD 3/Pasted image 20241010073525.png",
     "TELECOMUNICACIÓN/UNIDAD 1/1 TEMARIO.md",
     "TELECOMUNICACIÓN/UNIDAD 3/1 FIBRA OPTICA.md",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 1/1 TEMARIO.md",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 1/2 MODELO DE ARQUITECTURA.md",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 1/3 CONCEPTOS.md",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 1/4 PROCESADORES.md",
-    "ARQUITECTURA DE COMPUTADORAS/UNIDAD 1/IMAGEN MODELO.jpg",
-    "ARQUITECTURA DE COMPUTADORAS/UNIDAD 1/PROCESADORES.jpg",
     "TELECOMUNICACIÓN/UNIDAD 1/4 ONDAS DE RADIO.md",
     "ARQUITECTURA DE COMPUTADORAS/UNIDAD 2",
     "TELECOMUNICACIÓN/UNIDAD 3",
-    "TELECOMUNICACIÓN/UNIDAD 1/WhatsApp Image 2024-08-22 at 6.07.07 PM.jpeg",
     "TELECOMUNICACIÓN/UNIDAD 1/3 CONCEPTOS.md",
     "TELECOMUNICACIÓN/UNIDAD 1/2 EJEMPLO DE COMUNICACIÓN.md",
     "TELECOMUNICACIÓN/UNIDAD 2/2 DIFERENCIAS ENTRE LAS SEÑALES ANALOGICAS Y DIGITALES.md",
     "TELECOMUNICACIÓN/UNIDAD 2/1 SEÑAL ANALOGICA VS DIGITAL.md",
     "TELECOMUNICACIÓN/UNIDAD 2/3 METODOS DE MODULACIÓN.md",
-    "TELECOMUNICACIÓN/UNIDAD 2/FSK.png",
-    "TELECOMUNICACIÓN/UNIDAD 2/ASK.png",
     "TELECOMUNICACIÓN/UNIDAD 2",
     "Untitled.canvas",
     "3.md",
@@ -210,8 +334,6 @@
     "Excalidraw/Drawing 2024-08-21 07.28.38.excalidraw.md",
     "Excalidraw",
     "2024-08-21.md",
-    "Welcome.md",
-    "TELECOMUNICACIÓN/Untitled.md",
     "TELECOMUNICACIÓN/UNIDAD 1",
     "TELECOMUNICACIÓN"
   ]
