@@ -1,5 +1,6 @@
 **1-. INTEL CORE I7**
 
+
 ![[Pasted image 20241107083703.png]]
 **PRECIO**
 $13K MXM
